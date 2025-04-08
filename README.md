@@ -1,4 +1,4 @@
 # odin-recipes
-An introduction to HTML Coding
-will be creating a web page that has an explaination how to make some good milk teas
+An introduction to HTML Coding Lesson 
+A creation of a simple web page that has an explaination on how to make some good milk teas
  
